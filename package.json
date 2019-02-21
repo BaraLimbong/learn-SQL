@@ -1,0 +1,22 @@
+{
+  "name": "learn-sql",
+  "version": "1.0.0",
+  "description": "learn about sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaraLimbong/learn-SQL.git"
+  },
+  "author": "BaraLimbong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaraLimbong/learn-SQL/issues"
+  },
+  "homepage": "https://github.com/BaraLimbong/learn-SQL#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
